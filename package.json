@@ -1,0 +1,19 @@
+{
+  "name": "vue-click-outside",
+  "version": "1.0.0",
+  "description": "[Vue](http://vuejs.org) Directive to make a click outside event, inspired by [vue-clickaway](https://github.com/simplesmiler/vue-clickaway)",
+  "main": "src/vue-click-outside.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BosNaufal/vue-click-outside.git"
+  },
+  "author": "BosNaufal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BosNaufal/vue-click-outside/issues"
+  },
+  "homepage": "https://github.com/BosNaufal/vue-click-outside#readme"
+}
